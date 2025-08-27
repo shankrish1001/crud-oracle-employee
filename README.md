@@ -1,1 +1,1 @@
-test
+An Oracle CRUD API refers to an Application Programming Interface designed to perform Create, Read, Update, and Delete operations on data stored within an Oracle database or an Oracle-related system. 
